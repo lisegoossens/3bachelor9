@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3de bachelor Lise Goossens",
-    "currentPage": "opdrachtmenu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -214,7 +214,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Lise Goossens studeert illustratie aan Luca School of Arts Gent</span></p><p><a href=\"index.html\" class=\"text-black\">home</a> //&nbsp;<a href=\"mailto:lise@waltergoossens.com\" class=\"text-black\">contact</a> // <a href=\"http://facebook.com/goossenslise\" class=\"text-black\">facebook</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Lise Goossens studeert illustratie aan Luca School of Arts Gent</span></p><p><a href=\"index.html\" class=\"text-black\">home</a> //&nbsp;<a href=\"mailto:lise@waltergoossens.com\" class=\"text-black\">contact</a> // <a href=\"http://facebook.com/goossenslise\" class=\"text-black\">facebook</a>&nbsp;// <a href=\"http://instagram.com/goossens.lise\" target=\"_blank\" class=\"text-black\">instagram</a></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-7",
           "_cid": "r5d0KfHumP",
           "_protectedParams": [],
@@ -228,7 +228,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "zines: kermis",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -431,7 +431,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "schetsboek: kerst",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -634,7 +634,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "opdracht: angst",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -763,7 +763,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "opdracht: seizoenen",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -892,7 +892,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "opdracht: guislain",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1037,7 +1037,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "schetsboek: inkt",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1240,7 +1240,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "opdracht: karaoke",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1369,7 +1369,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "privacy.html",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1399,7 +1399,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1583,7 +1583,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1789,7 +1789,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -2111,7 +2111,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2317,7 +2317,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -2523,7 +2523,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -2729,7 +2729,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2990,7 +2990,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "opdracht: gabri",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3138,7 +3138,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3344,7 +3344,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3489,7 +3489,7 @@
       "settings": {
         "meta_descr": "",
         "title": "schetsboek: dagelijks",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -3985,7 +3985,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4133,7 +4133,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4220,7 +4220,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "schetsboek: voorlezen",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -4481,7 +4481,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "opdracht: hotel",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4671,7 +4671,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4816,7 +4816,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "opdracht: Afrika",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4940,6 +4940,14 @@
           "_params": {}
         }
       ]
+    },
+    "instagram.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "instagram",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
